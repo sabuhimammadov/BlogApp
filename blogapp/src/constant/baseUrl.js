@@ -1,0 +1,1 @@
+ export const baseURL = "https://blog-api-t6u0.onrender.com"
